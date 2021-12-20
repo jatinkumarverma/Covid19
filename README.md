@@ -1,1 +1,1 @@
-# covid19-awareness spreading site
+# covid19 awareness spreading site
