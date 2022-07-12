@@ -1,1 +1,3 @@
-# covid19 awareness spreading site
+# Awareness spreading site
+
+To spread awareness among people about covid-19
